@@ -1,0 +1,23 @@
+body{
+       background-color: lightblue;
+       font-size: 25px;
+       margin: auto;
+       background-repeat: no-repeat;
+       background-size: cover;
+       background-attachment: fixed;
+     }
+#header{
+          margin-left: 45%;
+          padding-right: 40%;
+        }
+.iphone{
+          padding: 4%;
+        }
+#text{
+        color: black;
+        font-size: 25px;
+        margin-left: 30%;
+      }
+label{
+        color: white;
+      }
