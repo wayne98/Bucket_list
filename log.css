@@ -1,0 +1,13 @@
+body{
+      background-image:url("BucketList.jpg") !important;
+      background-repeat: no-repeat;
+      background-position: cover;
+      background-color: skyblue;
+      font-size: 40px;
+      margin-left: 45%;
+      padding-top: 6.5%;
+      color: white;
+      }
+label{
+      color: black;
+      }
